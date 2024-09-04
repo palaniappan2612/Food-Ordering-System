@@ -1,4 +1,4 @@
-----------------------------------------------------> It's a Console-Based Application <-----------------------------------------
+----------------------------------------------------> It's a Console-Based Application <-------------------------------------------------------
 HOW TO RUN:-
 
 Step 1 : Open the folder Database and it contains a SQL file of tables(with dummy data) .
