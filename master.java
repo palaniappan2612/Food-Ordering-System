@@ -16,7 +16,7 @@ class OnlineFoodOrderingSystem
 		Connection con = null;
 	    String url = "jdbc:mysql://localhost:3306/oopd";
 	    String UserName = "root";
-	    String Password = "shrey@123"; //Tewatia@20  shrey@123 3011mitali
+	    String Password = "root"; 
 	    try {
 	        con = DriverManager.getConnection(url,UserName,Password);
 	        return con;
