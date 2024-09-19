@@ -1,9 +1,5 @@
 ----------------------------------------------------> It's a Console-Based Application <--------------------------------------------------                        
-HOW TO RUN:-
 
-Step 1 : Open the folder Database and it contains a SQL file of tables(with dummy data) .
-
-Step 2: Run the code ( food_order.java) on any IDE.
 
 INTRODUCTION:-
 
