@@ -31,12 +31,6 @@ Restaurant Table
 
 Menu Table
 
-Area Coordinates Table
-
-Cart Table
-
-Wishlist Table
-
 Order Table
 
 Rating Table
@@ -50,17 +44,14 @@ Class OnlineFoodOrderingSystem is superclass for :-
 SignUp
 Login
 Order
-PaymentMode
-Tracking
 Rating
+
 Class Order is superclass for:-
 
 Restaurant
-Cart
-Wishlist
-Class Restaurant is superclass for:-
+menu
+Payment Mode
 
-Menu
 ENCAPSULATION :-
 
 Order class have various variables like final_amount, delivery_amount and order_amount .
